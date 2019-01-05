@@ -1,0 +1,36 @@
+<html>
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>&lt;&lt;ПРОФИ&gt;&gt; аудиторские и юридические услуги</title>
+<!-- #EndEditable --> 
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<link rel="stylesheet" href="/main.css">
+<meta name="keywords" content="юридические услуги, аудиторские услуги, регистрация и обслуживание предприятий, лицензии, акционерные общества, общества с ограниченной ответственностью, товарищества, партнерства, юридический консалтинг, финансовый консалтинг, бизнес консалтинг, оффшоры, off-shore, бухгалтерский учет, налоги, налоговое планирование, балансы, подготовка и сдача отчетов, отчетность, управление, доверительное управление, заключения, налоги, инструкции, законы, суд, арбитражный суд, гражданский процесс, право, административное право, правонарушение, взыскание, штраф, санкции, ЭЭР Алтай, Эвенкия, льготы, льготное налогобложение, внебюджетные фонды, НДС, прибыль, валюта, наличные, касса">
+</head>
+
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<!--#include virtual="/top.shtml" -->
+<div align="left">&nbsp; <br>
+  <br>
+  <br>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr bgcolor="#eeeeee"> 
+      <td bgcolor="#eeeeee" width="60">&nbsp;</td>
+      <td><!-- #BeginEditable "navigator" -->{navigator}<!-- #EndEditable --></td>
+    </tr>
+  </table>
+  <br>
+  <br>
+</div>
+<table width="760" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td valign="top" width="60">&nbsp;</td>
+    <td valign="top" width="200" > <!-- #BeginEditable "left" -->{left}<!-- #EndEditable --><br>
+    </td>
+    <td valign="top" width="50">&nbsp;</td>
+    <td  valign="top" width="450" class="normal"> <!-- #BeginEditable "right" -->{right}<!-- #EndEditable --></td>
+  </tr>
+</table>
+<!--#include virtual="/bottom.shtml"-->
+</body>
+</html>

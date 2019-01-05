@@ -1,0 +1,65 @@
+<a target="_top" href="http://v.extreme-dm.com/?login=profymsk"> <img name=im src="http://v1.extreme-dm.com/i.gif" height=1
+border=0 width=1 alt=""></a> 
+<script language="javascript"><!--
+an=navigator.appName;d=document;function
+pr(){d.write("<img src=\"http://v0.extreme-dm.com",
+"/0.gif?tag=profymsk&j=y&srw="+srw+"&srb="+srb+"&",
+"rs="+r+"&l="+escape(parent.document.referrer)+"\" height=1 ",
+"width=1>");}srb="na";srw="na";//-->
+</script><script language="javascript1.2"><!--
+s=screen;srw=s.width;an!="Netscape"?
+srb=s.colorDepth:srb=s.pixelDepth;//-->
+</script><script language="javascript"><!--
+r=41;d.images?r=d.im.width:z=0;pr();//-->
+</script><noscript><img height=1 width=1 alt="" 
+src="http://v0.extreme-dm.com/0.gif?tag=profymsk&j=n"></noscript>
+
+
+<br>
+ <!--TopList COUNTER--><a target=_top
+href="http://top.list.ru/jump?from=32178"> 
+<script language="JavaScript"><!--
+d=document;js=10;a=';r='+escape(d.referrer)
+//--></script>
+  <script language="JavaScript1.1"><!--
+js=11;a+=';j='+navigator.javaEnabled()
+//--></script>
+  <script language="JavaScript1.2"><!--
+js=12;s=screen;a+=';s='+s.width+'*'+s.height
+a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth)
+//--></script>
+  <script language="JavaScript1.3"><!--
+js=13//--></script>
+  <script language="JavaScript"><!--
+d.write('<img src="http://top.list.ru/counter'+
+'?id=32178;t=10;js='+js+a+'" alt="TopList" '+
+'border=0 height=1 width=1>')
+if(js>11)d.write('<'+'!-- ')//--></script>
+<noscript><img
+src="http://top.list.ru/counter?js=na;id=32178;t=10"
+border=0 height=1 width=1
+alt="TopList"></noscript> 
+<script language="JavaScript"><!--
+if(js>11)d.write('--'+'>')
+//--></script>
+<br>
+</a><!--TopList COUNTER--> <!--begin of Top100 code--> <a href="http://www.mafia.ru/top100" target="_top"><img src="http://www.mafia.ru/cgi-bin/ank/top100/nph-top100?A=9735" alt="MAFIA's Top100" width=1 height=1 border=0></a> 
+<!--end of Top100 code--> <br>
+<a href="http://www.ranker.ru/scripts/sqltmex.dll?tpl=_top_tod_yest.htm&id=9891&category=2&sort=today+desc&page=1" target="_top"><img src="count102.gif"
+alt="Aport Ranker" border="0" width="1" height="1"></a> <img src="http://www.ranker.ru/scripts/rcounter.dll?id=9891&image=102" border="0" width="1" height="1"><br>
+<a href="http://1000.stars.ru" target=_top><img src="http://1000.stars.ru/cgi-bin/1000.cgi?profymskrusite" WIDTH=1 HEIGHT=1 BORDER=0></a> 
+<!-- SpyLOG v2 f:1211 --> 
+<script language="javascript">
+u="u445.41.spylog.com";d=document;nv=navigator;na=nv.appName;p=1;
+bv=Math.round(parseFloat(nv.appVersion)*100);
+ n=(na.substring(0,2)=="Mi")?0:1;rn=Math.random(); z="p="+p+"&rn="+rn;y="";
+y+="<a href='http://"+u+"/cnt?f=3&p="+p+"&rn="+rn+"' target=_blank>";
+y+="<img src='http://"+u+"/cnt?"+z+
+"&r1="+escape(d.referrer)+"&r="+escape(parent.document.referrer)+
+ "&pg="+escape(window.location.href)+"' border=0  width=1 height=1  alt='SpyLOG'>";
+ y+="</a>";  d.write(y); if(!n) { d.write("<"+"!--"); } //--></script>
+<noscript> <a href="http://u445.41.spylog.com/cnt?f=3&p=1" target=_blank> <img src="http://u445.41.spylog.com/cnt?p=1" alt='SpyLOG' border='0'  width=1 height=1 > 
+</a> </noscript> 
+<script language="javascript1.2"><!--
+ if(!n) { d.write("--"+">"); }//--></script>
+<!-- SpyLOG  --> 

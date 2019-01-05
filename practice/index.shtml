@@ -1,0 +1,64 @@
+<html><!-- #BeginTemplate "/Templates/single.dwt" -->
+<head>
+<!-- #BeginEditable "doctitle" --> 
+<title>ПРОФИ ---&gt; Практика</title>
+<!-- #EndEditable --> 
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<link rel="stylesheet" href="/main.css">
+<meta name="keywords" content="юридические услуги, аудиторские услуги, регистрация и обслуживание предприятий, лицензии, акционерные общества, общества с ограниченной ответственностью, товарищества, партнерства, юридический консалтинг, финансовый консалтинг, бизнес консалтинг, оффшоры, off-shore, бухгалтерский учет, налоги, налоговое планирование, балансы, подготовка и сдача отчетов, отчетность, управление, доверительное управление, заключения, налоги, инструкции, законы, суд, арбитражный суд, гражданский процесс, право, административное право, правонарушение, взыскание, штраф, санкции, ЭЭР Алтай, Эвенкия, льготы, льготное налогобложение, внебюджетные фонды, НДС, прибыль, валюта, наличные, касса">
+</head>
+
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<!--#include virtual="/top.shtml" -->
+<div align="left">&nbsp; <br>
+  <br>
+  <br>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr bgcolor="#eeeeee"> 
+      <td bgcolor="#eeeeee" width="60">&nbsp;</td>
+      <td><!-- #BeginEditable "navigator" --><a href="/index.shtml" class="barttl">ПРОФИ</a> 
+        <span class="barttl">---&gt; Практика</span><!-- #EndEditable --></td>
+    </tr>
+  </table>
+  <br>
+  <br>
+</div>
+<table width="760" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td valign="top" width="60">&nbsp;</td>
+    <td valign="top" width="200" > <br>
+    </td>
+    <td valign="top" width="500" class="normal"><!-- #BeginEditable "text" --> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="5" class="normal">
+        <tr> 
+          <td colspan="2" class="normal_big"><span class="normal"><span class="normal_big">Банковское 
+            право</span></span></td>
+        </tr>
+        <tr> 
+          <td width="25"><img src="/graph/doc.gif" width="13" height="16"></td>
+          <td><a href="/practice/bank-law/1.shtml" class="normal_menu">К вопросу 
+            об уведомлении банками налоговых органов при осуществлении физическими 
+            лицами операций на сумму, эквивалентную 10 тысячам долларов США и 
+            выше.</a></td>
+        </tr>
+        <tr> 
+          <td width="25"><img src="/graph/doc.gif" width="13" height="16"></td>
+          <td><span class="normal"><a href="/practice/bank-law/2.shtml" class="normal_menu">К 
+            вопросу о необходимости получения информационного письма налогового 
+            органа для совершения операций по банковскому счету клиента.</a></span></td>
+        </tr>
+        <tr> 
+          <td width="25"><img src="/graph/doc.gif" width="13" height="16"></td>
+          <td><span class="normal"><a href="/practice/bank-law/3.shtml" class="normal_menu">К 
+            вопросу о представлении документов юридическими лицами при открытии 
+            ссудных и депозитных счетов.</a></span></td>
+        </tr>
+      </table>
+      <p>&nbsp; </p>
+      <!-- #EndEditable --> 
+    </td>
+  </tr>
+</table>
+<!--#include virtual="/bottom.shtml"-->
+</body>
+<!-- #EndTemplate --></html>

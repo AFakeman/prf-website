@@ -1,0 +1,27 @@
+<html>
+  <head>
+    <title> Книга гостей
+          Add to our Guestbook</title>
+  </head>
+  <body>
+    <center>
+      <h1>Книга Гостей
+          Add to our Guestbook</h1>
+    </center>
+    Заполните форму<hr>
+    <form method=POST action="/cgi/guestbook.pl">
+      <input type=hidden name="login_name" value="profy">
+      Ваше Имя: <input type=text name="realname"  size=30><br>
+      EMAIL: <input type=text name="username"
+                    value="@"size=40><br>
+      URL: <input type=text name="url" value="http://" size=50><br>
+      Город: <input type=text name="city" value="Москва" size=15>,
+      Страна: <input type=text name="country" value="Россия" size=15><p>
+      Комментарии:<br>
+      <textarea name="comments"  COLS=60 ROWS=4></textarea><p>
+      <input type=submit value="Ввод"> * <input type=reset value="очистка">
+    </form>
+    <hr>
+    * <a href="/~profy/guestbook.html">Возвращение к Гостевой Книге</a>
+  </body>
+</html>
