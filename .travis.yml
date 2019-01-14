@@ -10,7 +10,7 @@ script:
 
 deploy:
   provider: s3
-  bucket: "prf.afakeman.ru"
+  bucket: "www.prf.ru"
   skip_cleanup: true
   local_dir: build
   endpoint: "https://storage.yandexcloud.net"
