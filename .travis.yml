@@ -9,8 +9,7 @@ script:
   - python3 build.py build
 
 deploy:
-  provider: s3
-  bucket: "www.prf.ru"
+  provider: firebase
   skip_cleanup: true
-  local_dir: build
-  endpoint: "https://storage.yandexcloud.net"
+  token: "$FIREBASE_TOKEN"
+  project: "prf-website"
