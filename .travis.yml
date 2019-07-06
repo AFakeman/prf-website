@@ -5,8 +5,7 @@ python:
 
 # command to run tests
 script:
-  - cp -r website build
-  - python3 build.py build
+  - make
 
 deploy:
   provider: firebase
