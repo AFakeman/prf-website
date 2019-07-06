@@ -1,9 +1,12 @@
 BUILD_DIR=build
 SRC_DIR=website
 
-.PHONY: $(BUILD_DIR)
+.PHONY: build_html
 
-$(BUILD_DIR):
+build_html: $(BUILD_DIR)
 	rm -rf $(BUILD_DIR)/* && \
 	cp -r ${SRC_DIR}/* build && \
 	python3 build.py $(BUILD_DIR)
+
+$(BUILD_DIR):
+	mkdir -p $(BUILD_DIR)
