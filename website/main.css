@@ -1,25 +1,90 @@
-.normal {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; color: #000000; text-align: justify; font-style: normal}
-.barttl { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 7.5pt; color: #006699; text-decoration: none; font-weight: bold; font-style: normal}
-.bar { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; color: #006699; font-weight: bold; list-style-type: circle}
-a.bar:hover { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; color: #CC0000; text-decoration: underline; font-weight: bold; list-style-type: circle }
-a.bar:link { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; color: #006699; text-decoration: underline; font-weight: bold; list-style-type: circle }
-a.normal:link { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; color: #000000; text-decoration: underline; text-align: justify; font-style: normal }
-a.normal:hover { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; color: #CC0000; text-align: justify; font-style: normal }
-a.barttl:hover { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 7.5pt; color: #CC0000; text-decoration: none; font-weight: bold; font-style: normal }
-.normal_menu { color: #000000; text-align: justify; text-decoration: none; font-size: 8pt; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal}
-a.normal_menu:hover { color: #CC0000; text-align: justify; font-size: 8pt; text-decoration: none; font-family: Verdana, Arial, Helvetica, sans-serif; font-style: normal; font-weight: normal}
-.normal_big { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13pt; color: #006699; text-align: justify; font-style: normal ; font-weight: normal}
-.barttl-note { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 7.5pt; color: #CC0000; text-decoration: none; font-weight: bold; font-style: normal }
-.bar_txt { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; color: #666666; font-weight: normal; list-style-type: circle; text-align: right}
-.top_menu { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #006699; text-decoration: none; font-weight: bold; font-style: normal }
-a.top_menu:link { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #006699; text-decoration: none; font-weight: bold; font-style: normal }
-a.top_menu:hover { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #CC0000; text-decoration: none; font-weight: bold; font-style: normal }
-h1 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; color: #000000; font-weight: normal; text-align: justify; margin-top: 0px; margin-bottom: 0px}
-a.h1:link { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; color: #000000; font-weight: normal ; text-decoration: underline; text-align: justify; margin-top: 0px; margin-bottom: 0px}
-a.h1:visited { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; color: #000000; font-weight: normal; text-align: justify; margin-top: 0px; margin-bottom: 0px ; text-decoration: underline}
-a.h1:hover { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; color: #CC0000; font-weight: normal; text-align: justify; margin-top: 0px; margin-bottom: 0px ; text-decoration: underline}
-h2 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #666666; font-weight: normal; text-align: right; margin-top: 0px; margin-bottom: 0px ; text-decoration: none}
-a.h2:visited { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #006699; font-weight: bold; text-align: right; margin-top: 0px; margin-bottom: 0px ; text-decoration: none }
-a.h2:link { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #006699; font-weight: bold; text-align: right; margin-top: 0px; margin-bottom: 0px ; text-decoration: none }
-a.h2:hover { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #CC0000; font-weight: bold; text-align: right; margin-top: 0px; margin-bottom: 0px ; text-decoration: none }
-.top_note { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #CC0000; text-decoration: none; font-weight: bold; font-style: normal }
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+.main-content {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	color: #000000;
+	text-align: justify;
+	font-style: normal;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 80%;
+    max-width: 700px;
+}
+
+hr.section-break {
+    border-top: dashed 1px #B2B2B2;
+}
+
+
+h2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	color: #666666;
+	font-weight: normal;
+	text-align: left;
+	text-decoration: none
+}
+
+.red {
+    color: #CC0000;
+}
+
+.logo {
+    margin-left: 60px;
+    user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+
+.lower-line {
+    height: 25px;
+    width: 100%;
+    background-color: #FFCC00;
+    text-transform: uppercase;
+	font-family: Arial;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-color: #006BB3;
+}
+
+.title {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 10pt;
+    margin-top: 4px;
+    margin-left: 63px;
+}
+
+hr.blue {
+    border-top: solid 2px #3399CC;
+    width: 100%;
+}
+
+.barttl {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 7.5pt;
+	color: #006699;
+	text-decoration: none;
+	font-weight: bold;
+	font-style: normal
+}
+
+.copyright {
+    margin-left: 10%;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.footer {
+    margin-top: auto;
+}
