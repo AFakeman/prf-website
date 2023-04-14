@@ -10,3 +10,7 @@ build_html: $(BUILD_DIR)
 
 $(BUILD_DIR):
 	mkdir -p $(BUILD_DIR)
+
+.PHONY:
+deploy: build_html
+	firebase deploy
